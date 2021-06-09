@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastai learning experience
-description: This is a blog that contains the experience while I learn deep learning with fastai and Pytorch.❤
+title: Pytorch practice and 3D scenes deep learning
+description: This blog documents my learning experince about Pytorch and 3D scene analysis
 github_username: Sun-XH
 
 # Email and twitter are optional:
-email: 
+email: xiaohao_sun@sfu.ca
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
